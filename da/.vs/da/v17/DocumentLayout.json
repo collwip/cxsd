@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\My project MS VIS STUD\\da\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ACDAF-CBCE-40F2-852A-DA719CAB8CDC}|da\\da.csproj|f:\\my project ms vis stud\\da\\da\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ACDAF-CBCE-40F2-852A-DA719CAB8CDC}|da\\da.csproj|solutionrelative:da\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ACDAF-CBCE-40F2-852A-DA719CAB8CDC}|da\\da.csproj|F:\\My project MS VIS STUD\\da\\da\\reg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ACDAF-CBCE-40F2-852A-DA719CAB8CDC}|da\\da.csproj|solutionrelative:da\\reg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ACDAF-CBCE-40F2-852A-DA719CAB8CDC}|da\\da.csproj|F:\\My project MS VIS STUD\\da\\da\\reg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E88ACDAF-CBCE-40F2-852A-DA719CAB8CDC}|da\\da.csproj|solutionrelative:da\\reg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ACDAF-CBCE-40F2-852A-DA719CAB8CDC}|da\\da.csproj|F:\\My project MS VIS STUD\\da\\da\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E88ACDAF-CBCE-40F2-852A-DA719CAB8CDC}|da\\da.csproj|solutionrelative:da\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ACDAF-CBCE-40F2-852A-DA719CAB8CDC}|da\\da.csproj|F:\\My project MS VIS STUD\\da\\da\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E88ACDAF-CBCE-40F2-852A-DA719CAB8CDC}|da\\da.csproj|solutionrelative:da\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ACDAF-CBCE-40F2-852A-DA719CAB8CDC}|da\\da.csproj|F:\\My project MS VIS STUD\\da\\da\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ACDAF-CBCE-40F2-852A-DA719CAB8CDC}|da\\da.csproj|solutionrelative:da\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ACDAF-CBCE-40F2-852A-DA719CAB8CDC}|da\\da.csproj|F:\\My project MS VIS STUD\\da\\da\\appconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ACDAF-CBCE-40F2-852A-DA719CAB8CDC}|da\\da.csproj|solutionrelative:da\\appconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.xaml.cs",
+              "DocumentMoniker": "F:\\My project MS VIS STUD\\da\\da\\login.xaml.cs",
+              "RelativeDocumentMoniker": "da\\login.xaml.cs",
+              "ToolTip": "F:\\My project MS VIS STUD\\da\\da\\login.xaml.cs",
+              "RelativeToolTip": "da\\login.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswD8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:54:21.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "reg.xaml.cs",
+              "DocumentMoniker": "F:\\My project MS VIS STUD\\da\\da\\reg.xaml.cs",
+              "RelativeDocumentMoniker": "da\\reg.xaml.cs",
+              "ToolTip": "F:\\My project MS VIS STUD\\da\\da\\reg.xaml.cs",
+              "RelativeToolTip": "da\\reg.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:09:07.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "reg.xaml",
+              "DocumentMoniker": "F:\\My project MS VIS STUD\\da\\da\\reg.xaml",
+              "RelativeDocumentMoniker": "da\\reg.xaml",
+              "ToolTip": "F:\\My project MS VIS STUD\\da\\da\\reg.xaml",
+              "RelativeToolTip": "da\\reg.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T14:03:43.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Appconnect.cs",
+              "DocumentMoniker": "F:\\My project MS VIS STUD\\da\\da\\Appconnect.cs",
+              "RelativeDocumentMoniker": "da\\Appconnect.cs",
+              "ToolTip": "F:\\My project MS VIS STUD\\da\\da\\Appconnect.cs",
+              "RelativeToolTip": "da\\Appconnect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:53:21.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.xaml",
+              "DocumentMoniker": "F:\\My project MS VIS STUD\\da\\da\\login.xaml",
+              "RelativeDocumentMoniker": "da\\login.xaml",
+              "ToolTip": "F:\\My project MS VIS STUD\\da\\da\\login.xaml",
+              "RelativeToolTip": "da\\login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T13:48:33.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\My project MS VIS STUD\\da\\da\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "da\\MainWindow.xaml",
+              "ToolTip": "F:\\My project MS VIS STUD\\da\\da\\MainWindow.xaml",
+              "RelativeToolTip": "da\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T13:47:09.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\My project MS VIS STUD\\da\\da\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "da\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\My project MS VIS STUD\\da\\da\\MainWindow.xaml.cs",
+              "RelativeToolTip": "da\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:47:09.056Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
